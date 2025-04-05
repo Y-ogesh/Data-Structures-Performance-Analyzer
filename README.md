@@ -19,9 +19,10 @@
    cd data-structures-analyzer
    
 3.Running the project
+ ```bash
   mvn clean install    # Compiles and builds the .jar
   mvn javafx:run      # Launches the application (if using JavaFX)
-
+```
 ## 📚 Documentation Report  
 For detailed analysis and methodology, see the full report:  
-[📄 Performance Analysis Report]([https://github.com/Y-ogesh/Data-Structures-Performance-Analyzer/blob/main/Periyasamy_documentation.pdf]) 
+[📄 Performance Analysis Report](main/Periyasamy_documentation.pdf)  
