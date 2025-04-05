@@ -24,4 +24,4 @@
 
 ## 📚 Documentation Report  
 For detailed analysis and methodology, see the full report:  
-[📄 Performance Analysis Report](docs/performance_report.pdf) 
+[📄 Performance Analysis Report]([https://github.com/Y-ogesh/Data-Structures-Performance-Analyzer/blob/main/Periyasamy_documentation.pdf]) 
