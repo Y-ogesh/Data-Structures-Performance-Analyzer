@@ -16,13 +16,14 @@
    ```bash
    git clone https://github.com/Y-ogesh/data-structures-analyzer.git
 2. Navigate to project directory:
+    ```bash
    cd data-structures-analyzer
    
 3.Running the project
  ```bash
-  mvn clean install    # Compiles and builds the .jar
-  mvn javafx:run      # Launches the application (if using JavaFX)
+   mvn clean install    # Compiles and builds the .jar
+   mvn javafx:run      # Launches the application (if using JavaFX)
 ```
 ## 📚 Documentation Report  
 For detailed analysis and methodology, see the full report:  
-[📄 Performance Analysis Report](main/Periyasamy_documentation.pdf)  
+[📄 Performance Analysis Report](Data-Structures-Performance-Analyzer/Periyasamy_documentation.pdf)  
